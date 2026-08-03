@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Linked List
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
