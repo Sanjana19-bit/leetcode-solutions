@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -104,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Quicksort
 |  |
 | ------- |
@@ -117,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
