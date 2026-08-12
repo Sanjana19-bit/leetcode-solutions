@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -203,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
