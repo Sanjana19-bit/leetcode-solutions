@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
