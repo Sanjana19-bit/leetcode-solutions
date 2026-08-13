@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0143-reorder-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -54,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Math
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
