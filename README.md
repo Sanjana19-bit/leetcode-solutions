@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2029-stone-game-ix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
