@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2029-stone-game-ix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -254,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sliding Window
 |  |
