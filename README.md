@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -311,4 +312,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
