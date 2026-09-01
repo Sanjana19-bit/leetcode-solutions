@@ -242,11 +242,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -324,12 +326,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
 | ------- |
