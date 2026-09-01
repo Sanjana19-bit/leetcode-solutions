@@ -239,12 +239,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -319,11 +321,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
