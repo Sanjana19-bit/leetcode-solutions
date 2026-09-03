@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
