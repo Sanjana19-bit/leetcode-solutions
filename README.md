@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1927-sum-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1927-sum-game) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
