@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
