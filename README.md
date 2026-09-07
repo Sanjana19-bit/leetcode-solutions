@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1510-stone-game-iv) |
