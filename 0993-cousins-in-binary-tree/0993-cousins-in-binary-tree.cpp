@@ -1,55 +1,36 @@
 class Solution {
 public:
-    bool isCousins(TreeNode* root, int x, int y) {
 
-        queue<pair<TreeNode*, TreeNode*>> q;
+    int depthX = -1;
+    int depthY = -1;
 
-        q.push({root, NULL});
+    TreeNode* parentX = NULL;
+    TreeNode* parentY = NULL;
 
-        while (!q.empty()) {
+    void dfs(TreeNode* node, TreeNode* parent, int depth, int x, int y) {
 
-            int size = q.size();
-
-            TreeNode* parentX = NULL;
-            TreeNode* parentY = NULL;
-
-
-
-
-
-
-
-            for (int i = 0; i < size; i++) {
-
-                auto [node, parent] = q.front();
-                q.pop();
-
-                if (node->val == x) {
-                    parentX = parent;
-                }
-
-                if (node->val == y) {
-                    parentY = parent;
-                }
-
-                if (node->left) {
-                    q.push({node->left, node});
-                }
-
-                if (node->right) {
-                    q.push({node->right, node});
-                }
-            }
-
-            if (parentX != NULL && parentY != NULL) {
-                return parentX != parentY;
-            }
-
-            if (parentX != NULL || parentY != NULL) {
-                return false;
-            }
+        if (node == NULL) {
+            return;
         }
 
-        return false;
+        if (node->val == x) {
+            depthX = depth;
+            parentX = parent;
+        }
+
+        if (node->val == y) {
+            depthY = depth;
+            parentY = parent;
+        }
+
+        dfs(node->left, node, depth + 1, x, y);
+        dfs(node->right, node, depth + 1, x, y);
+    }
+
+    bool isCousins(TreeNode* root, int x, int y) {
+
+        dfs(root, NULL, 0, x, y);
+
+        return depthX == depthY && parentX != parentY;
     }
 };
