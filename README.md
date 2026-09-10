@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0897-increasing-order-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0993-cousins-in-binary-tree) |
 ## DP on Trees
 |  |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0897-increasing-order-search-tree) |
 ## Trie
 |  |
 | ------- |
