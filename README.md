@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0877-stone-game) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0835-image-overlap](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
