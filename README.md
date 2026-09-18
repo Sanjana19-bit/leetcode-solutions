@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search Tree
 |  |
@@ -443,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
