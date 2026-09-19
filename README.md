@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0455-assign-cookies](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
