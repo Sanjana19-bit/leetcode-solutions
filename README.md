@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0925-long-pressed-name](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0940-distinct-subsequences-ii](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/1927-sum-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0925-long-pressed-name](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sanjana19-bit/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
